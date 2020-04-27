@@ -16,4 +16,9 @@
     <ProjectReference Include="..\VSquare.Core\VSquare.Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="audio\" />
+    <Folder Include="clips\" />
+  </ItemGroup>
+
 </Project>
